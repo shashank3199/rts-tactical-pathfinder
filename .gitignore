@@ -1,0 +1,11 @@
+# Ignore build directories
+build/
+
+# Ignore Prettier configuration files
+.prettierrc
+.prettierignore
+
+# Ignore specific binary files
+maploader
+pathfinder
+
